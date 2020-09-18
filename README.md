@@ -1,4 +1,22 @@
+
+![alt text](https://ibrahimbelkhiria.com/wp-content/uploads/2018/08/spring-boot-angular.png)
+
 ### Hi there 👋
+
+🔭 I’m currently working on http://caninoamigoshop.tk/ freelance project
+
+⚡ I am working at Solredes SAS
+
+
+
+Programming languages with Frameworks:
+
+    Java - JavaEE with JSF and Spring Boot
+    
+    JavaScript - Angular 
+    
+🤔I am interested in learning Flutter, GoLang and Mobile Development
+
 
 <!--
 **DuwanSierra/DuwanSierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

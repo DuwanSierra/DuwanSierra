@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working on http://caninoamigoshop.tk/ freelance project
+🔭 I’m currently working on http://caninoamigoshop.tk/ freelance project, This project is developed in Angular 9 and Spring Boot. Hosted on Amazon AWS Elastic Beanstalk, an instance of Apache Tomcat, it also implements the Amazon S3 and Amazon RDS services. 
 
 ⚡ I am working at Solredes SAS
 

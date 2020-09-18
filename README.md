@@ -3,10 +3,9 @@
 
 ### Hi there 👋
 
-🔭 I’m currently working on http://caninoamigoshop.tk/ freelance project, This project is developed in Angular 9 and Spring Boot. Hosted on Amazon AWS Elastic Beanstalk, an instance of Apache Tomcat, it also implements the Amazon S3 and Amazon RDS services. 
+⚡ I am working at Solredes SAS, with Angular 9+, Spring Boot 2.2.4, JavaEE7 with JSF and PrimeFaces, and Databases in Oracle and MariaDB.
 
-⚡ I am working at Solredes SAS
-
+🔭 I’m currently working on http://caninoamigoshop.tk/ freelance Pet-Shop project. This project is developed in Angular 9 and Spring Boot. Hosted on Amazon AWS Elastic Beanstalk, an instance of Apache Tomcat, it also implements the Amazon S3 and Amazon RDS services. 
 
 
 Programming languages with Frameworks:

@@ -5,7 +5,7 @@
 
 ⚡ I am working at Solredes SAS, with Angular 9+, Spring Boot 2.2.4, JavaEE7 with JSF and PrimeFaces, and Databases in Oracle and MariaDB.
 
-🔭 I’m currently working on http://caninoamigoshop.tk/ freelance Pet-Shop project. This project is developed in Angular 9 and Spring Boot. Hosted on Amazon AWS Elastic Beanstalk, an instance of Apache Tomcat, it also implements the Amazon S3 and Amazon RDS services. 
+🔭 I am currently working on http://nordicco.tk/ freelance eCommerce project. This project is developed in Angular 9 with SSR and Spring Boot 2.3.2. Hosted on Amazon EC2, Ubuntu OS, with containerization on Docker, uses Nginx as reverse proxy, also implements Amazon S3 and Amazon RDS services. On the other hand, the entire CI / CD is orchestrated by Jenkins, starting from a pipeline.
 
 
 Programming languages with Frameworks:

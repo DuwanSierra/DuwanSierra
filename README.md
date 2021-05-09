@@ -14,7 +14,7 @@ Programming languages with Frameworks:
     
     JavaScript - Angular 
     
-🤔I am interested in learning Flutter, GoLang and Mobile Development
+🤔I am interested in learning Flutter, Devops, GoLang and Mobile Development
 
 
 <!--

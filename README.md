@@ -1,33 +1,28 @@
 
-![alt text](https://ibrahimbelkhiria.com/wp-content/uploads/2018/08/spring-boot-angular.png)
+![alt text](https://www.technotification.com/wp-content/uploads/2018/04/learn-web-development.jpg)
 
 ### Hi there 👋
 
-⚡ I am working as a junior fullstack developer at Siigo.
+⚡ I am working as FullStack developer at Siigo.
 
-🔭 I am currently working on http://nordicco.tk/ freelance eCommerce project. This project is developed in Angular 9 with SSR and Spring Boot 2.3.2. Hosted on Amazon EC2, Amazon Linux OS, with containerization on Docker, uses Nginx as reverse proxy, also implements Amazon S3 and Amazon RDS services (MySql). On the other hand, the entire CI / CD is orchestrated by Jenkins, starting from a pipeline.
+🔭 I am currently working on https://nordicco.com.co/ freelance eCommerce project. This project is developed in Angular 9 with SSR and Spring Boot 2.3.2. Hosted on Amazon EC2, Amazon Linux OS, with containerization on Docker, uses Nginx as reverse proxy, also implements Amazon S3 and Amazon RDS services (MySql). On the other hand, the entire CI / CD is orchestrated by Jenkins, starting from a pipeline.
 
 
 Programming languages with Frameworks:
 
-    Java - JavaEE with JSF and Spring Boot
+    Java - JavaEE with JSF ⭐⭐
     
-    JavaScript - Angular 
+    Spring Boot ⭐⭐⭐
     
-🤔I am interested in learning Flutter, Devops, GoLang and Mobile Development
+    Net Core ⭐⭐
+    
+    JavaScript - Angular ⭐⭐⭐
+    
+    SQL ⭐⭐
+    
+    NoSQL (Mongo) ⭐
+    
+🤔I am interested in learning Kubernetes, Microservices, CI/CD, Golang and Design Patters. Why do I want to focus on having knowledge in Software Architecture.
 
 
-<!--
-**DuwanSierra/DuwanSierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: https://linkedin.com/in/in/duwansierra

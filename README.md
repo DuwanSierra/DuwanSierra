@@ -22,7 +22,7 @@ Programming languages with Frameworks:
     
     NoSQL (Mongo) ⭐
     
-🤔I am interested in learning Kubernetes, Microservices, CI/CD, Golang and Design Patters. Why do I want to focus on having knowledge in Software Architecture.
+🤔I am interested in learning Kubernetes, Microservices, CI/CD, Golang, Vue + Vite and Design Patters. Why do I want to focus on having knowledge in Software Architecture.
 
 
 - 📫 How to reach me: https://linkedin.com/in/in/duwansierra

@@ -25,4 +25,4 @@ Programming languages with Frameworks:
 🤔I am interested in learning Kubernetes, Microservices, CI/CD, Golang, Vue + Vite and Design Patters. Why do I want to focus on having knowledge in Software Architecture.
 
 
-- 📫 How to reach me: https://linkedin.com/in/in/duwansierra
+- 📫 How to reach me: https://linkedin.com/in/duwansierra
